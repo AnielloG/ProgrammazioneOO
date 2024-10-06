@@ -1,0 +1,9 @@
+1.Creazione classe Piatto non abstract con i 5 attributi senza tostring
+2. Creazione Classe Antipasto che estende piatto
+capire come gestire una List di stringhe per l'attributo ingredientiPrincipali
+3. Creazione Classe Primo che estende piatto
+4. creare una classe ManagerRistoranti che faccia:
+4.1. inizializzi una collection "ArrayList<Piatto>"
+4.2. creare 2 metodi per la serializzazione e la deserializzazione di piatti su un file di testo
+4.3. introdurre le query attraverso l'uso dello StreamAPI
+5.creare una classe TESTER contenete un interfaccia grafica che mi permetta di eseguire i metodi sopra creati
